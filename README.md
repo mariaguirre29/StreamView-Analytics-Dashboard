@@ -1,4 +1,3 @@
-# StreamView-Analytics-Dashboard
 # StreamView Analytics 🎬📊
 
 ## Análisis exploratorio y visualización del catálogo de contenidos
