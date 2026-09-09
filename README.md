@@ -132,3 +132,21 @@ Entre los resultados obtenidos se identificaron:
 ---
 
 # Estructura del repositorio
+StreamView-Analytics/
+│ ├── data/ │   ├── raw/ │   └── processed/ │ ├── notebooks/ │   └── EDA.ipynb │ ├── dashboard/ │   └── Dashboard.pbix │ ├── images/ │   └── Visualizaciones │ └── README.md
+
+
+---
+
+# Integrantes
+
+- María Aguirre
+- Pamela Albanese
+- Rodrigo Cornejo
+
+---
+
+# Asignatura
+
+Visualización de Datos  
+Duoc UC
